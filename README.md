@@ -16,7 +16,7 @@ IBM HR Analytics Employee Attrition dataset (Kaggle): 1,470 employees, 35 featur
 ## Summary of Findings
 
 ### Problem
-Employee attrition is concentrated among younger, overworked, and under compensated mid-level staff. Current turnover costs the organization **\$253,000** (assumed figures) on the holdout evaluation data alone, driven mainly by burnout, travel fatigue, and pay deficit.
+Employee attrition is concentrated among younger, overworked, and under compensated mid-level staff. Current turnover costs the organization **\$253,000** (calculated with assumed figures) on the holdout evaluation data alone, driven mainly by burnout, travel fatigue, and pay deficit.
 
 ### Approach
 I built an interpretable risk-scoring model with financial threshold optimization (threshold = 0.45). By mapping model outputs to level-specific intervention costs and replacement expenses, retention resources go where the financial return is highest.
