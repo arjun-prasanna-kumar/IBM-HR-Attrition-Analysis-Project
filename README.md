@@ -22,7 +22,9 @@ IBM HR Analytics Employee Attrition dataset (Kaggle), 1,470 employees, 35 featur
     
   **Key Findings:**
     - Financial Impact: Deploying the model-driven strategy reduces total turnover expenditures from 253,000 to 139,100, achieving a 45.02% net cost        reduction ($113,900 net savings).
+    
     - Primary Risk Drivers: Overtime is the single largest operational catalyst—high-risk employees are 4.6x more likely to work overtime (49.39% vs        11.88%). Frequent business travel increases attrition odds by 2.14x 28.28% vs 11.55%
+    
     - Compensation Gap: High-risk personnel face a 42.67% monthly pay deficit (4,741/month vs 8,270/month baseline), making them highly susceptible         to external recruitment.
       
   **Recommendation:**
