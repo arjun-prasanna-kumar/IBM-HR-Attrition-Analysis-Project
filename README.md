@@ -40,7 +40,7 @@ I built an interpretable risk-scoring model with financial threshold optimizatio
 | Recall | 82.9% |
 
 ## Cost Effect of Model
-![Cost effect](src/cost-effect.png)
+![Cost effect](src/Cost-effect.png)
 
 ## Dashboard
 ![Dashboard](images/dashboard.png)
